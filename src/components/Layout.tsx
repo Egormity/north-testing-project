@@ -22,7 +22,7 @@ export default function Layout() {
     if (!userRepos)
       return (
         <main className={mainClassName}>
-          <Heading>Добро пожаловать</Heading>
+          <Heading>Добро пожаловать!</Heading>
         </main>
       );
 
