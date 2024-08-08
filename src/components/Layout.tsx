@@ -31,7 +31,7 @@ export default function Layout() {
       return (
         <main className={mainClassName}>
           {' '}
-          <Heading>User could not be found. Check the spelling and try again</Heading>
+          <Heading>Пользователь не найден. Проверте написание и попробуйте еще раз.</Heading>
         </main>
       );
 
