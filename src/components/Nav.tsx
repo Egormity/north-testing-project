@@ -20,7 +20,7 @@ export default function Nav() {
           value={search}
           onChange={e => setSearch(e.target.value)}
           className='rounded-sm px-6 outline-none placeholder:italic hover:ring'
-          placeholder='Введите поисковый запрос'
+          placeholder='Введите имя пользователя GitHub'
         />
 
         <button className='bg-primary rounded-sm font-medium text-white shadow-md duration-primary hover:bg-blue-400'>
