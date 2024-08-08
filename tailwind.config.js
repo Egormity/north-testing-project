@@ -11,6 +11,7 @@ export default {
       colors: {
         primary: '#2196F3',
         'primary-dark': '#00838F',
+        light: ' #F2F2F2',
       },
 
       transitionDuration: {
